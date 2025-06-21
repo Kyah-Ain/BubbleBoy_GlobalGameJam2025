@@ -23,7 +23,7 @@
 
 <div align ="center">
   
-  <img src="https://github.com/user-attachments/assets/a018ebee-07f9-4b4b-8341-e01f362aa7b9" width="900" alt="Resized Image"> 
+  <img src="https://github.com/user-attachments/assets/a018ebee-07f9-4b4b-8341-e01f362aa7b9" width="800" alt="Resized Image"> 
   
 </div>
 
